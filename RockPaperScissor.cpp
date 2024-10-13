@@ -68,7 +68,7 @@ void winnerselector(int x,int y)
         }
         if(y=='p')
         {
-            std::cout<<"\nYou Lose against computer!!Terminator incoming....";
+            std::cout<<"\nYou Lose against computer!!";
         }
       }
       break;
@@ -80,7 +80,7 @@ void winnerselector(int x,int y)
           }
           if(y=='r')
           {
-             std::cout<<"\nYou Lose against computer!!Terminator incoming...."; 
+             std::cout<<"\nYou Lose against computer!!"; 
           }
           if(y=='p')
           {
@@ -96,7 +96,7 @@ void winnerselector(int x,int y)
           }
           if(y=='s')
           {
-              std::cout<<"\nYou Lose against computer!!Terminator incoming....";   
+              std::cout<<"\nYou Lose against computer!!";   
           }
           if(y=='r')
           {
