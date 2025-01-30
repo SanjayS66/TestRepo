@@ -1,0 +1,22 @@
+[1.205s] Invoking command in '/home/sanjay/ros2_task/src/draw_poly': PYTHONPATH=/home/sanjay/ros2_task/build/draw_poly/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/install/draw_poly/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/draw_poly build --build-base /home/sanjay/ros2_task/build/draw_poly/build install --record /home/sanjay/ros2_task/build/draw_poly/install.log --single-version-externally-managed install_data
+[1.547s] running egg_info
+[1.548s] writing ../../build/draw_poly/draw_poly.egg-info/PKG-INFO
+[1.549s] writing dependency_links to ../../build/draw_poly/draw_poly.egg-info/dependency_links.txt
+[1.549s] writing entry points to ../../build/draw_poly/draw_poly.egg-info/entry_points.txt
+[1.549s] writing requirements to ../../build/draw_poly/draw_poly.egg-info/requires.txt
+[1.549s] writing top-level names to ../../build/draw_poly/draw_poly.egg-info/top_level.txt
+[1.551s] reading manifest file '../../build/draw_poly/draw_poly.egg-info/SOURCES.txt'
+[1.552s] writing manifest file '../../build/draw_poly/draw_poly.egg-info/SOURCES.txt'
+[1.552s] running build
+[1.553s] running build_py
+[1.553s] running install
+[1.553s] running install_lib
+[1.555s] running install_data
+[1.556s] running install_egg_info
+[1.558s] removing '/home/sanjay/ros2_task/install/draw_poly/lib/python3.10/site-packages/draw_poly-0.0.0-py3.10.egg-info' (and everything under it)
+[1.559s] Copying ../../build/draw_poly/draw_poly.egg-info to /home/sanjay/ros2_task/install/draw_poly/lib/python3.10/site-packages/draw_poly-0.0.0-py3.10.egg-info
+[1.559s] running install_scripts
+[1.593s] Installing drawpoly_client script to /home/sanjay/ros2_task/install/draw_poly/lib/draw_poly
+[1.594s] Installing drawpoly_service script to /home/sanjay/ros2_task/install/draw_poly/lib/draw_poly
+[1.594s] writing list of installed files to '/home/sanjay/ros2_task/build/draw_poly/install.log'
+[1.647s] Invoked command in '/home/sanjay/ros2_task/src/draw_poly' returned '0': PYTHONPATH=/home/sanjay/ros2_task/build/draw_poly/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/install/draw_poly/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/draw_poly build --build-base /home/sanjay/ros2_task/build/draw_poly/build install --record /home/sanjay/ros2_task/build/draw_poly/install.log --single-version-externally-managed install_data

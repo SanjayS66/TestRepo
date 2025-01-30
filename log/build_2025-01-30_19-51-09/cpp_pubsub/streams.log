@@ -1,0 +1,7 @@
+[0.017s] Invoking command in '/home/sanjay/ros2_task/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/cpp_pubsub -- -j12 -l12
+[0.440s] [ 25%] Built target listener
+[0.440s] [ 50%] Built target talker
+[0.440s] [ 75%] Built target chat_node_b
+[0.440s] [100%] Built target chat_node_a
+[0.449s] Invoked command in '/home/sanjay/ros2_task/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/cpp_pubsub -- -j12 -l12
+[0.457s] Invoking command in '/home/sanjay/ros2_task/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_task/build/cpp_pubsub

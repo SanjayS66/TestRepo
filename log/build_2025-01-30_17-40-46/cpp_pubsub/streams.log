@@ -1,0 +1,37 @@
+[0.012s] Invoking command in '/home/sanjay/ros2_task/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanjay/ros2_task/src/install/task_pkg:/home/sanjay/ros2_task/install/task_pkg:/home/sanjay/ros2_task/install/draw_poly:/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/cpp_pubsub -- -j12 -l12
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target listener[0m
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target chat_node_b[0m
+[0.063s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.063s] [35m[1mConsolidate compiler generated dependencies of target chat_node_a[0m
+[0.084s] [ 25%] Built target listener
+[0.085s] [ 50%] Built target chat_node_a
+[0.087s] [ 75%] Built target talker
+[0.087s] [100%] Built target chat_node_b
+[0.103s] Invoked command in '/home/sanjay/ros2_task/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanjay/ros2_task/src/install/task_pkg:/home/sanjay/ros2_task/install/task_pkg:/home/sanjay/ros2_task/install/draw_poly:/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/cpp_pubsub -- -j12 -l12
+[0.117s] Invoking command in '/home/sanjay/ros2_task/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanjay/ros2_task/src/install/task_pkg:/home/sanjay/ros2_task/install/task_pkg:/home/sanjay/ros2_task/install/draw_poly:/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_task/build/cpp_pubsub
+[0.129s] -- Install configuration: ""
+[0.129s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker
+[0.130s] -- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[0.131s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_a
+[0.134s] -- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_a" to ""
+[0.134s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_b
+[0.138s] -- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_b" to ""
+[0.138s] -- Up-to-date: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker
+[0.138s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/listener
+[0.141s] -- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[0.142s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[0.142s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[0.142s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[0.142s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[0.142s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[0.143s] -- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[0.146s] Invoked command in '/home/sanjay/ros2_task/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sanjay/ros2_task/src/install/task_pkg:/home/sanjay/ros2_task/install/task_pkg:/home/sanjay/ros2_task/install/draw_poly:/opt/ros/humble /usr/bin/cmake --install /home/sanjay/ros2_task/build/cpp_pubsub

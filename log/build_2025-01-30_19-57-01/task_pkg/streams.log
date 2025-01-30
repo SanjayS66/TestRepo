@@ -1,0 +1,28 @@
+[0.541s] Invoking command in '/home/sanjay/ros2_task/src/task_pkg': PYTHONPATH=/home/sanjay/ros2_task/build/task_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/install/task_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_pkg build --build-base /home/sanjay/ros2_task/build/task_pkg/build install --record /home/sanjay/ros2_task/build/task_pkg/install.log --single-version-externally-managed install_data
+[0.685s] running egg_info
+[0.686s] writing ../../build/task_pkg/task_pkg.egg-info/PKG-INFO
+[0.686s] writing dependency_links to ../../build/task_pkg/task_pkg.egg-info/dependency_links.txt
+[0.686s] writing entry points to ../../build/task_pkg/task_pkg.egg-info/entry_points.txt
+[0.686s] writing requirements to ../../build/task_pkg/task_pkg.egg-info/requires.txt
+[0.686s] writing top-level names to ../../build/task_pkg/task_pkg.egg-info/top_level.txt
+[0.687s] reading manifest file '../../build/task_pkg/task_pkg.egg-info/SOURCES.txt'
+[0.687s] adding license file 'LICENSE'
+[0.688s] writing manifest file '../../build/task_pkg/task_pkg.egg-info/SOURCES.txt'
+[0.688s] running build
+[0.688s] running build_py
+[0.688s] running install
+[0.688s] running install_lib
+[0.689s] running install_data
+[0.689s] running install_egg_info
+[0.690s] removing '/home/sanjay/ros2_task/install/task_pkg/lib/python3.10/site-packages/task_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.690s] Copying ../../build/task_pkg/task_pkg.egg-info to /home/sanjay/ros2_task/install/task_pkg/lib/python3.10/site-packages/task_pkg-0.0.0-py3.10.egg-info
+[0.691s] running install_scripts
+[0.706s] Installing Drawcircle script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing control script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing drawd script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing drawpoly script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing pub script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing sub script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] Installing togoal script to /home/sanjay/ros2_task/install/task_pkg/lib/task_pkg
+[0.706s] writing list of installed files to '/home/sanjay/ros2_task/build/task_pkg/install.log'
+[0.726s] Invoked command in '/home/sanjay/ros2_task/src/task_pkg' returned '0': PYTHONPATH=/home/sanjay/ros2_task/build/task_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/install/task_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_pkg build --build-base /home/sanjay/ros2_task/build/task_pkg/build install --record /home/sanjay/ros2_task/build/task_pkg/install.log --single-version-externally-managed install_data

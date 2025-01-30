@@ -1,0 +1,15 @@
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/ament_index/resource_index/package_run_dependencies/tutorial_interfaces
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/ament_index/resource_index/parent_prefix_path/tutorial_interfaces
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.sh
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.dsv
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.sh
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.dsv
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.bash
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.sh
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.zsh
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.dsv
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/package.dsv
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/ament_index/resource_index/packages/tutorial_interfaces
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig.cmake
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig-version.cmake
+/home/sanjay/ros2_task/install/tutorial_interfaces/share/tutorial_interfaces/package.xml

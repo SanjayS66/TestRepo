@@ -1,0 +1,4 @@
+[console_scripts]
+drawpoly_client = draw_poly.client_node:main
+drawpoly_service = draw_poly.service_node:main
+

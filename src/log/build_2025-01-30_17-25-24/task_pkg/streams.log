@@ -1,0 +1,62 @@
+[1.156s] Invoking command in '/home/sanjay/ros2_task/src/task_pkg': PYTHONPATH=/home/sanjay/ros2_task/src/build/task_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task_pkg build --build-base /home/sanjay/ros2_task/src/build/task_pkg/build install --record /home/sanjay/ros2_task/src/build/task_pkg/install.log --single-version-externally-managed install_data
+[1.547s] running egg_info
+[1.548s] creating ../build/task_pkg/task_pkg.egg-info
+[1.548s] writing ../build/task_pkg/task_pkg.egg-info/PKG-INFO
+[1.548s] writing dependency_links to ../build/task_pkg/task_pkg.egg-info/dependency_links.txt
+[1.549s] writing entry points to ../build/task_pkg/task_pkg.egg-info/entry_points.txt
+[1.549s] writing requirements to ../build/task_pkg/task_pkg.egg-info/requires.txt
+[1.549s] writing top-level names to ../build/task_pkg/task_pkg.egg-info/top_level.txt
+[1.549s] writing manifest file '../build/task_pkg/task_pkg.egg-info/SOURCES.txt'
+[1.551s] reading manifest file '../build/task_pkg/task_pkg.egg-info/SOURCES.txt'
+[1.552s] adding license file 'LICENSE'
+[1.554s] writing manifest file '../build/task_pkg/task_pkg.egg-info/SOURCES.txt'
+[1.554s] running build
+[1.555s] running build_py
+[1.555s] creating /home/sanjay/ros2_task/src/build/task_pkg/build
+[1.555s] creating /home/sanjay/ros2_task/src/build/task_pkg/build/lib
+[1.555s] creating /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.555s] copying task_pkg/sub.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.555s] copying task_pkg/pub.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.555s] copying task_pkg/controller.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.555s] copying task_pkg/goal.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.556s] copying task_pkg/Drawcircle.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.556s] copying task_pkg/drawd.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.556s] copying task_pkg/drawpoly.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.556s] copying task_pkg/__init__.py -> /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg
+[1.556s] running install
+[1.557s] running install_lib
+[1.558s] creating /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/sub.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/pub.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/controller.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/goal.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/Drawcircle.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.558s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/drawd.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.559s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/drawpoly.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.559s] copying /home/sanjay/ros2_task/src/build/task_pkg/build/lib/task_pkg/__init__.py -> /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg
+[1.559s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/sub.py to sub.cpython-310.pyc
+[1.560s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/pub.py to pub.cpython-310.pyc
+[1.561s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/controller.py to controller.cpython-310.pyc
+[1.562s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/goal.py to goal.cpython-310.pyc
+[1.563s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/Drawcircle.py to Drawcircle.cpython-310.pyc
+[1.564s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/drawd.py to drawd.cpython-310.pyc
+[1.565s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/drawpoly.py to drawpoly.cpython-310.pyc
+[1.566s] byte-compiling /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg/__init__.py to __init__.cpython-310.pyc
+[1.566s] running install_data
+[1.566s] creating /home/sanjay/ros2_task/src/install/task_pkg/share/ament_index
+[1.566s] creating /home/sanjay/ros2_task/src/install/task_pkg/share/ament_index/resource_index
+[1.566s] creating /home/sanjay/ros2_task/src/install/task_pkg/share/ament_index/resource_index/packages
+[1.567s] copying resource/task_pkg -> /home/sanjay/ros2_task/src/install/task_pkg/share/ament_index/resource_index/packages
+[1.567s] copying package.xml -> /home/sanjay/ros2_task/src/install/task_pkg/share/task_pkg
+[1.567s] running install_egg_info
+[1.570s] Copying ../build/task_pkg/task_pkg.egg-info to /home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages/task_pkg-0.0.0-py3.10.egg-info
+[1.571s] running install_scripts
+[1.603s] Installing Drawcircle script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.603s] Installing control script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.603s] Installing drawd script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.603s] Installing drawpoly script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.604s] Installing pub script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.604s] Installing sub script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.604s] Installing togoal script to /home/sanjay/ros2_task/src/install/task_pkg/lib/task_pkg
+[1.604s] writing list of installed files to '/home/sanjay/ros2_task/src/build/task_pkg/install.log'
+[1.647s] Invoked command in '/home/sanjay/ros2_task/src/task_pkg' returned '0': PYTHONPATH=/home/sanjay/ros2_task/src/build/task_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sanjay/ros2_task/src/install/task_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/task_pkg build --build-base /home/sanjay/ros2_task/src/build/task_pkg/build install --record /home/sanjay/ros2_task/src/build/task_pkg/install.log --single-version-externally-managed install_data

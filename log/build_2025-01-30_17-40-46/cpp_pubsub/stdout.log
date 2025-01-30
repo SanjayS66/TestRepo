@@ -1,0 +1,33 @@
+[35m[1mConsolidate compiler generated dependencies of target listener[0m
+[35m[1mConsolidate compiler generated dependencies of target chat_node_b[0m
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[35m[1mConsolidate compiler generated dependencies of target chat_node_a[0m
+[ 25%] Built target listener
+[ 50%] Built target chat_node_a
+[ 75%] Built target talker
+[100%] Built target chat_node_b
+-- Install configuration: ""
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker
+-- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_a
+-- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_a" to ""
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_b
+-- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/chat_node_b" to ""
+-- Up-to-date: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/talker
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/listener
+-- Set runtime path of "/home/sanjay/ros2_task/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+-- Installing: /home/sanjay/ros2_task/install/cpp_pubsub/share/cpp_pubsub/package.xml

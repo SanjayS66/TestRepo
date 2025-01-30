@@ -1,0 +1,6 @@
+source;share/draw_poly/hook/pythonpath.ps1
+source;share/draw_poly/hook/pythonpath.dsv
+source;share/draw_poly/hook/pythonpath.sh
+source;share/draw_poly/hook/ament_prefix_path.ps1
+source;share/draw_poly/hook/ament_prefix_path.dsv
+source;share/draw_poly/hook/ament_prefix_path.sh

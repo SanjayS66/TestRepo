@@ -1,0 +1,9 @@
+[console_scripts]
+Drawcircle = task_pkg.Drawcircle:main
+control = task_pkg.controller:main
+drawd = task_pkg.drawd:main
+drawpoly = task_pkg.drawpoly:main
+pub = task_pkg.pub:main
+sub = task_pkg.sub:main
+togoal = task_pkg.goal:main
+

@@ -1,0 +1,5 @@
+[ 10%] [32mBuilding CXX object CMakeFiles/poly_client.dir/src/client_drawp.cpp.o[0m
+[ 30%] Built target togoal
+[ 50%] Built target drawcircle
+[ 60%] [32mBuilding CXX object CMakeFiles/poly_service.dir/src/service_drawp.cpp.o[0m
+[ 80%] Built target drawd
