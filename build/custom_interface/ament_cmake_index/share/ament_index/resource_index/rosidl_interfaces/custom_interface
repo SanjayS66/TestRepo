@@ -1,4 +1,0 @@
-srv/Drawpoly.idl
-srv/Drawpoly.srv
-srv/Drawpoly_Request.msg
-srv/Drawpoly_Response.msg
