@@ -1,2 +1,0 @@
-Invoking command in '/home/sanjay/ros2_task/build/custom_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/custom_interface -- -j12 -l12
-Invoked command in '/home/sanjay/ros2_task/build/custom_interface' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/custom_interface -- -j12 -l12

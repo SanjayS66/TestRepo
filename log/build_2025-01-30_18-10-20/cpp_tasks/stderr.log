@@ -1,6 +1,0 @@
-gmake[2]: *** No rule to make target '/home/sanjay/ros2_task/src/cpp_tasks/src/client_drawp.cpp', needed by 'CMakeFiles/poly_client.dir/src/client_drawp.cpp.o'.  Stop.
-gmake[1]: *** [CMakeFiles/Makefile2:223: CMakeFiles/poly_client.dir/all] Error 2
-gmake[1]: *** Waiting for unfinished jobs....
-gmake[2]: *** No rule to make target '/home/sanjay/ros2_task/src/cpp_tasks/src/service_drawp.cpp', needed by 'CMakeFiles/poly_service.dir/src/service_drawp.cpp.o'.  Stop.
-gmake[1]: *** [CMakeFiles/Makefile2:249: CMakeFiles/poly_service.dir/all] Error 2
-gmake: *** [Makefile:146: all] Error 2

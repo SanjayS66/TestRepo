@@ -1,1 +1,0 @@
-Invoking command in '/home/sanjay/ros2_task/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanjay/ros2_task/build/tutorial_interfaces -- -j12 -l12
